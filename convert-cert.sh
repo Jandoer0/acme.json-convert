@@ -3,7 +3,7 @@
 # Путь к исходному файлу и целевой директории
 ACME_JSON="/home/suave/docker/traefik/letsencrypt/acme.json"
 CONF_DIR="./adguard/confdir"
-DOMAIN="kb5snr05.mynotation.ru"
+DOMAIN="exemple.com"
 
 # Параметры для логирования
 LOG_DIR="./logs"
